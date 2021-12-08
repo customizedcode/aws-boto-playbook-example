@@ -1,7 +1,7 @@
-AWS-Playbook-example  
+AWS-BOTO-Playbook-example  
 ====================  
 
-This is an example of using the BOTO3 python Library in Ansible to  
+This is an example of using the AWS BOTO3 python Library in Ansible to  
 provision EC2 instances/VMs using an Ansible playbook.  
 I wrote this a while back.  
 
