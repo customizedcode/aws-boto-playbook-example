@@ -9,12 +9,12 @@ Personally, I would use Terraform https://www.terraform.io/ as it
 will work with a wide variety of hosting/cloud providers as well as support  
 hypervisors such as KVM/LibVirt, VMWare, Xen and even kubernetes containers. 
 https://registry.terraform.io/browse/providers   
-"Vendor Lock" is a form of technical debt we should all avoid as much as possible.  
+"Vendor Lock" from a service provider is a form of technical debt we should all avoid  
+as much as possible.  
 
 Requirements
 ============
-I will not go into too much detail for using this.  
-
+I will not go into too much detail for using this as my preference is stated above.  
 An AWS account would be needed.  
 A free tier account will work fine.  
 You will need to install Boto on the machine you run your Ansible playbooks on.
